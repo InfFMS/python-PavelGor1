@@ -3,3 +3,7 @@
 # Пример:
 # Ввод: 3, 5
 # Вывод: Сумма: 8
+n=int(input())
+m=int(input())
+sum=n+m
+print(sum);
