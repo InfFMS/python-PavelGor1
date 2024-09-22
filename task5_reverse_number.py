@@ -8,4 +8,4 @@ b = a%10
 c = a//100
 d = a//10
 e = d % 10
-print(b,e,c)
+print(b,e,c, sep='')
